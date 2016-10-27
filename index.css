@@ -1,0 +1,36 @@
+* {
+
+    font-family: arial; sans-serif;
+    align-content: center;
+    }
+
+body {
+    background-image: url( https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyIIXD84u9JSyGheuuox0uQnQ3phR2fTCiX_XFamvbRXIe0hK_BQ);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h1, h2, h3 { 
+    
+    
+    }
+
+
+h1 {
+    text-align: center;
+    
+    font-size: 30px;
+    }
+
+div {
+    
+    text-align: center;
+    box-sizing: border-box
+  
+    position: absolute;
+   
+    
+}
+    
+div p {
+  
+ }
